@@ -39,7 +39,7 @@ body{
   transition: 0.4s;
 }
 main{
-  height: 100vh;
+  height: 200vh;
   padding:25px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0.25), rgba(0,0,0,0.75));
 }
@@ -54,7 +54,7 @@ main{
   width:100%;
   padding:15px;
 
-  color:aliceblue;
+  color:rgb(15, 15, 15);
   font-size: 20px;
 
   appearance: none;
@@ -63,8 +63,7 @@ main{
   background:none;
 
   background-color: rgba(255,255,255, 0.5);
-  border-radius: 0px 16px 0px 16px;
-  
+  border-radius: 0px 20px 0px 20px;
 
 }
 </style>
